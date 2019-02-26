@@ -1,0 +1,300 @@
+
+Timetable for student of group BEng11
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       |                                       |                                       | BENG146 | 3.217 | Aresh_Dadlani       |                                       
+10:00-10:50 |                                       |                                       |                                       | BENG146 | 3.217 | Aresh_Dadlani       |                                       
+11:00-11:50 |                                       |                                       | BENG124 | B_Hall | Sung_Moon          | BENG145 | 6.327 | Ming_Yang           |                                       
+12:00-12:50 |                                       |                                       | BENG124 | B_Hall | Sung_Moon          | BENG145 | 6.327 | Ming_Yang           |                                       
+14:00-14:50 | BENG124 | 6.307 | Sung_Moon           |                                       | BENG145 | B_Hall | Boris_Golman       | BENG117 | 3.132 | Mert_Guney          | BENG146 | 6.154 | Vipin_Kizheppatt    
+15:00-15:50 | BENG124 | 6.307 | Sung_Moon           |                                       | BENG145 | B_Hall | Boris_Golman       | BENG117 | 3.132 | Mert_Guney          | BENG146 | 6.154 | Vipin_Kizheppatt    
+16:00-16:50 | BENG117 | 3.220 | Mert_Guney          | BENG221 | O_Hall | Aigerim_Mashekova  |                                       | BENG221 | 3.303 | Aigerim_Mashekova   |                                       
+17:00-17:50 | BENG117 | 3.220 | Mert_Guney          | BENG221 | O_Hall | Aigerim_Mashekova  |                                       | BENG221 | 3.303 | Aigerim_Mashekova   |                                       
+
+
+Timetable for student of group BEng12
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       | BENG221 | 6.327 | Asma_Perveen        |                                       |                                       |                                       
+10:00-10:50 |                                       | BENG221 | 6.327 | Asma_Perveen        |                                       |                                       |                                       
+11:00-11:50 |                                       | BENG145 | 3.227 | Boris_Golman        | BENG145 | 6.522 | Ming_Yang           | BENG146 | 3.220 | Aresh_Dadlani       | BENG124 | 3.303 | Vasileios_Zarikas   
+12:00-12:50 |                                       | BENG145 | 3.227 | Boris_Golman        | BENG145 | 6.522 | Ming_Yang           | BENG146 | 3.220 | Aresh_Dadlani       | BENG124 | 3.303 | Vasileios_Zarikas   
+14:00-14:50 | BENG117 | 6.112 | Anatoli_Vakhguelt   | BENG146 | 3.132 | Aresh_Dadlani       |                                       |                                       | BENG124 | 3.217 | Sung_Moon           
+15:00-15:50 | BENG117 | 6.112 | Anatoli_Vakhguelt   | BENG146 | 3.132 | Aresh_Dadlani       |                                       |                                       | BENG124 | 3.217 | Sung_Moon           
+16:00-16:50 |                                       | BENG221 | 3.143 | Aigerim_Mashekova   |                                       |                                       | BENG117 | 3.221 | Anatoli_Vakhguelt   
+17:00-17:50 |                                       | BENG221 | 3.143 | Aigerim_Mashekova   |                                       |                                       | BENG117 | 3.221 | Anatoli_Vakhguelt   
+
+
+Timetable for student of group BEng13
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | BENG124 | 6.422 | Vasileios_Zarikas   | BENG117 | 3.221 | Anatoli_Vakhguelt   |                                       | BENG117 | 3.303 | Anatoli_Vakhguelt   |                                       
+10:00-10:50 | BENG124 | 6.422 | Vasileios_Zarikas   | BENG117 | 3.221 | Anatoli_Vakhguelt   |                                       | BENG117 | 3.303 | Anatoli_Vakhguelt   |                                       
+11:00-11:50 | BENG221 | 6.422 | Asma_Perveen        | BENG145 | 3.309 | Boris_Golman        |                                       |                                       |                                       
+12:00-12:50 | BENG221 | 6.422 | Asma_Perveen        | BENG145 | 3.309 | Boris_Golman        |                                       |                                       |                                       
+14:00-14:50 |                                       |                                       | BENG145 | 3.132 | Ming_Yang           | BENG146 | 3.223 | Vipin_Kizheppatt    |                                       
+15:00-15:50 |                                       |                                       | BENG145 | 3.132 | Ming_Yang           | BENG146 | 3.223 | Vipin_Kizheppatt    |                                       
+16:00-16:50 |                                       |                                       | BENG124 | 3.227 | Sung_Moon           | BENG221 | 3.221 | Aigerim_Mashekova   | BENG146 | 6.522 | Aresh_Dadlani       
+17:00-17:50 |                                       |                                       | BENG124 | 3.227 | Sung_Moon           | BENG221 | 3.221 | Aigerim_Mashekova   | BENG146 | 6.522 | Aresh_Dadlani       
+
+
+Timetable for student of group BEng14
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       |                                       | BENG221 | 6.522 | Aigerim_Mashekova   | BENG221 | B_Hall | Aigerim_Mashekova  | BENG124 | 7.322 | Vasileios_Zarikas   
+10:00-10:50 |                                       |                                       | BENG221 | 6.522 | Aigerim_Mashekova   | BENG221 | B_Hall | Aigerim_Mashekova  | BENG124 | 7.322 | Vasileios_Zarikas   
+11:00-11:50 |                                       |                                       |                                       | BENG145 | 6.422 | Boris_Golman        | BENG117 | 3.227 | Mert_Guney          
+12:00-12:50 |                                       |                                       |                                       | BENG145 | 6.422 | Boris_Golman        | BENG117 | 3.227 | Mert_Guney          
+14:00-14:50 | BENG145 | 6.422 | Boris_Golman        |                                       |                                       |                                       | BENG146 | 3.416 | Vipin_Kizheppatt    
+15:00-15:50 | BENG145 | 6.422 | Boris_Golman        |                                       |                                       |                                       | BENG146 | 3.416 | Vipin_Kizheppatt    
+16:00-16:50 |                                       | BENG146 | 3.220 | Aresh_Dadlani       | BENG117 | 3.302 | Mert_Guney          |                                       | BENG124 | 3.317 | Vasileios_Zarikas   
+17:00-17:50 |                                       | BENG146 | 3.220 | Aresh_Dadlani       | BENG117 | 3.302 | Mert_Guney          |                                       | BENG124 | 3.317 | Vasileios_Zarikas   
+
+
+Timetable for student of group BEng15
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       |                                       | BENG146 | 3.309 | Vipin_Kizheppatt    |                                       | BENG221 | 6.508 | Asma_Perveen        
+10:00-10:50 |                                       |                                       | BENG146 | 3.309 | Vipin_Kizheppatt    |                                       | BENG221 | 6.508 | Asma_Perveen        
+11:00-11:50 | BENG124 | 3.221 | Vasileios_Zarikas   |                                       | BENG117 | 6.408 | Anatoli_Vakhguelt   | BENG117 | 3.132 | Anatoli_Vakhguelt   | BENG145 | 6.408 | Ming_Yang           
+12:00-12:50 | BENG124 | 3.221 | Vasileios_Zarikas   |                                       | BENG117 | 6.408 | Anatoli_Vakhguelt   | BENG117 | 3.132 | Anatoli_Vakhguelt   | BENG145 | 6.408 | Ming_Yang           
+14:00-14:50 | BENG145 | 7.322 | Ming_Yang           | BENG146 | 3.302 | Aresh_Dadlani       | BENG221 | 3.224 | Aigerim_Mashekova   |                                       |                                       
+15:00-15:50 | BENG145 | 7.322 | Ming_Yang           | BENG146 | 3.302 | Aresh_Dadlani       | BENG221 | 3.224 | Aigerim_Mashekova   |                                       |                                       
+16:00-16:50 |                                       |                                       | BENG124 | 10_TP | Sung_Moon           |                                       |                                       
+17:00-17:50 |                                       |                                       | BENG124 | 10_TP | Sung_Moon           |                                       |                                       
+
+
+Timetable for student of group EEY21
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | BENG228 | 3.407 | Desmond_Adair       |                                       | BENG215 | 3.322 | Nazim_Mir_Nasiri    | BENG215 | 6.408 | Nazim_Mir_Nasiri    |                                       
+10:00-10:50 | BENG228 | 3.407 | Desmond_Adair       |                                       | BENG215 | 3.322 | Nazim_Mir_Nasiri    | BENG215 | 6.408 | Nazim_Mir_Nasiri    |                                       
+11:00-11:50 | EEE401 | 3.303 | Irina_Dolzhikova     |                                       | BENG215 | 3.317 | Nazim_Mir_Nasiri    |                                       | EEE401 | 3.217 | Irina_Dolzhikova     
+12:00-12:50 | EEE401 | 3.303 | Irina_Dolzhikova     |                                       | BENG215 | 3.317 | Nazim_Mir_Nasiri    |                                       | EEE401 | 3.217 | Irina_Dolzhikova     
+14:00-14:50 |                                       | EEE301 | 3.407 | Refik_Kizilirmak     | EEE301 | 3.317 | Kamilya_Smagulova    |                                       |                                       
+15:00-15:50 |                                       | EEE301 | 3.407 | Refik_Kizilirmak     | EEE301 | 3.317 | Kamilya_Smagulova    |                                       |                                       
+16:00-16:50 | EEE300 | 3.223 | Behrouz_Maham        | EEE300 | 6.427 | Beibit_Abdikenov     | EEE401 | 7.322 | Alex_James           | BENG228 | 3.302 | Maxim_Lu            | EEE300 | 3.415 | Behrouz_Maham        
+17:00-17:50 | EEE300 | 3.223 | Behrouz_Maham        | EEE300 | 6.427 | Beibit_Abdikenov     | EEE401 | 7.322 | Alex_James           | BENG228 | 3.302 | Maxim_Lu            | EEE300 | 3.415 | Behrouz_Maham        
+
+
+Timetable for student of group EEY22
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | EEE301 | 3.416 | Kamilya_Smagulova    | EEE300 | 3.317 | Beibit_Abdikenov     |                                       |                                       |                                       
+10:00-10:50 | EEE301 | 3.416 | Kamilya_Smagulova    | EEE300 | 3.317 | Beibit_Abdikenov     |                                       |                                       |                                       
+11:00-11:50 |                                       | EEE301 | 3.220 | Kamilya_Smagulova    | EEE300 | 3.143 | Behrouz_Maham        | EEE401 | 6.427 | Alex_James           | BENG228 | 3.224 | Maxim_Lu            
+12:00-12:50 |                                       | EEE301 | 3.220 | Kamilya_Smagulova    | EEE300 | 3.143 | Behrouz_Maham        | EEE401 | 6.427 | Alex_James           | BENG228 | 3.224 | Maxim_Lu            
+14:00-14:50 | BENG215 | 3.223 | Kassen_Dautov       | EEE401 | O_Hall | Irina_Dolzhikova    |                                       |                                       |                                       
+15:00-15:50 | BENG215 | 3.223 | Kassen_Dautov       | EEE401 | O_Hall | Irina_Dolzhikova    |                                       |                                       |                                       
+16:00-16:50 | EEE401 | 3.227 | Irina_Dolzhikova     | BENG215 | 3.302 | Kassen_Dautov       | BENG215 | 6.427 | Nazim_Mir_Nasiri    | BENG228 | 3.309 | Desmond_Adair       | EEE300 | 3.322 | Behrouz_Maham        
+17:00-17:50 | EEE401 | 3.227 | Irina_Dolzhikova     | BENG215 | 3.302 | Kassen_Dautov       | BENG215 | 6.427 | Nazim_Mir_Nasiri    | BENG228 | 3.309 | Desmond_Adair       | EEE300 | 3.322 | Behrouz_Maham        
+
+
+Timetable for student of group MEY21
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       | BENG228 | B_Hall | Maxim_Lu           | BENG215 | 3.407 | Nazim_Mir_Nasiri    | EME322 | 6.522 | Serik_Khairaliyev    | BENG215 | 6.422 | Nazim_Mir_Nasiri    
+10:00-10:50 |                                       | BENG228 | B_Hall | Maxim_Lu           | BENG215 | 3.407 | Nazim_Mir_Nasiri    | EME322 | 6.522 | Serik_Khairaliyev    | BENG215 | 6.422 | Nazim_Mir_Nasiri    
+11:00-11:50 | EME321 | 3.217 | Yerkin_Abdildin      | EME323 | 3.316 | Mary_Poppins         | EME321 | 6.154 | Yerkin_Abdildin      | EME323 | 3.302 | Evagoras_Xydas       |                                       
+12:00-12:50 | EME321 | 3.217 | Yerkin_Abdildin      | EME323 | 3.316 | Mary_Poppins         | EME321 | 6.154 | Yerkin_Abdildin      | EME323 | 3.302 | Evagoras_Xydas       |                                       
+14:00-14:50 | BENG228 | 3.217 | Desmond_Adair       |                                       |                                       | BENG215 | 3.322 | Nazim_Mir_Nasiri    | EME322 | 6.408 | Serik_Khairaliyev    
+15:00-15:50 | BENG228 | 3.217 | Desmond_Adair       |                                       |                                       | BENG215 | 3.322 | Nazim_Mir_Nasiri    | EME322 | 6.408 | Serik_Khairaliyev    
+16:00-16:50 | EME323 | 6.427 | Evagoras_Xydas       |                                       |                                       |                                       | EME322 | 6.508 | Serik_Khairaliyev    
+17:00-17:50 | EME323 | 6.427 | Evagoras_Xydas       |                                       |                                       |                                       | EME322 | 6.508 | Serik_Khairaliyev    
+
+
+Timetable for student of group MEY22
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | BENG215 | B_Hall | Kassen_Dautov      | EME322 | 3.132 | Serik_Khairaliyev    | BENG228 | 3.316 | Maxim_Lu            |                                       | BENG228 | 3.309 | Desmond_Adair       
+10:00-10:50 | BENG215 | B_Hall | Kassen_Dautov      | EME322 | 3.132 | Serik_Khairaliyev    | BENG228 | 3.316 | Maxim_Lu            |                                       | BENG228 | 3.309 | Desmond_Adair       
+11:00-11:50 | EME323 | O_Hall | Evagoras_Xydas      | BENG215 | 6.408 | Nazim_Mir_Nasiri    |                                       |                                       |                                       
+12:00-12:50 | EME323 | O_Hall | Evagoras_Xydas      | BENG215 | 6.408 | Nazim_Mir_Nasiri    |                                       |                                       |                                       
+14:00-14:50 | EME323 | 10_TP | Evagoras_Xydas       | BENG215 | 6.427 | Kassen_Dautov       |                                       | EME322 | 3.143 | Serik_Khairaliyev    |                                       
+15:00-15:50 | EME323 | 10_TP | Evagoras_Xydas       | BENG215 | 6.427 | Kassen_Dautov       |                                       | EME322 | 3.143 | Serik_Khairaliyev    |                                       
+16:00-16:50 | EME321 | 3.415 | Aldiyar_Kakimzhan    | EME321 | 3.316 | Aldiyar_Kakimzhan    | EME322 | 6.154 | Serik_Khairaliyev    | EME323 | 3.227 | Mary_Poppins         |                                       
+17:00-17:50 | EME321 | 3.415 | Aldiyar_Kakimzhan    | EME321 | 3.316 | Aldiyar_Kakimzhan    | EME322 | 6.154 | Serik_Khairaliyev    | EME323 | 3.227 | Mary_Poppins         |                                       
+
+
+Timetable for student of group CEY21
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       | ECE216 | 3.302 | Deuckhang_Lee        | ECE301 | 6.112 | Chang_Shon           | ECE300 | 3.416 | Shazim_Memon         | BENG228 | 3.416 | Desmond_Adair       
+10:00-10:50 |                                       | ECE216 | 3.302 | Deuckhang_Lee        | ECE301 | 6.112 | Chang_Shon           | ECE300 | 3.416 | Shazim_Memon         | BENG228 | 3.416 | Desmond_Adair       
+11:00-11:50 |                                       | ECE301 | 6.522 | Lyazzat_Saliyeva     | BENG228 | 3.221 | Maxim_Lu            | ECE216 | 6.522 | Saule_Tulebekova     | ECE300 | 3.407 | Lil_Cool             
+12:00-12:50 |                                       | ECE301 | 6.522 | Lyazzat_Saliyeva     | BENG228 | 3.221 | Maxim_Lu            | ECE216 | 6.522 | Saule_Tulebekova     | ECE300 | 3.407 | Lil_Cool             
+14:00-14:50 | ECE215 | 6.154 | Shazim_Memon         |                                       | ECE301 | O_Hall | Chang_Shon          |                                       | ECE216 | 3.223 | Deuckhang_Lee        
+15:00-15:50 | ECE215 | 6.154 | Shazim_Memon         |                                       | ECE301 | O_Hall | Chang_Shon          | ECE300 | 7.322 | Shazim_Memon         |                                       
+16:00-16:50 |                                       | ECE215 | B_Hall | Zhandos_Kerimkulov  | ECE215 | O_Hall | Shazim_Memon        |                                       |                                       
+17:00-17:50 | ECE215 | 3.416 | Shazim_Memon         | ECE215 | B_Hall | Zhandos_Kerimkulov  |                                       |                                       |                                       
+
+
+Timetable for student of group CEY22
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | ECE300 | 3.303 | Lil_Cool             | ECE216 | 3.223 | Deuckhang_Lee        | ECE215 | 3.227 | Zhandos_Kerimkulov   |                                       |                                       
+10:00-10:50 | ECE300 | 3.303 | Lil_Cool             | ECE216 | 3.223 | Deuckhang_Lee        |                                       |                                       |                                       
+11:00-11:50 | ECE215 | 6.327 | Shazim_Memon         | ECE301 | 3.221 | Lyazzat_Saliyeva     | ECE216 | 6.112 | Saule_Tulebekova     | ECE215 | 10_TP | Zhandos_Kerimkulov   | ECE300 | 3.132 | Lil_Cool             
+12:00-12:50 | ECE215 | 6.327 | Shazim_Memon         | ECE301 | 3.221 | Lyazzat_Saliyeva     | ECE216 | 6.112 | Saule_Tulebekova     | ECE215 | 10_TP | Zhandos_Kerimkulov   | ECE300 | 3.132 | Lil_Cool             
+14:00-14:50 | BENG228 | 3.309 | Maxim_Lu            |                                       |                                       |                                       |                                       
+15:00-15:50 | BENG228 | 3.309 | Maxim_Lu            | ECE216 | 3.227 | Saule_Tulebekova     |                                       | ECE215 | 3.416 | Shazim_Memon         |                                       
+16:00-16:50 |                                       | BENG228 | 3.322 | Desmond_Adair       |                                       | ECE301 | 6.508 | Lyazzat_Saliyeva     | ECE301 | 3.132 | Chang_Shon           
+17:00-17:50 | ECE300 | 3.303 | Shazim_Memon         | BENG228 | 3.322 | Desmond_Adair       |                                       | ECE301 | 6.508 | Lyazzat_Saliyeva     | ECE301 | 3.132 | Chang_Shon           
+
+
+Timetable for student of group CHEY21
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       | EME322 | 6.522 | Didier_Talamona      |                                       |                                       | ECHE211 | 6.427 | Dhawal_Shah         
+10:00-10:50 |                                       | EME322 | 6.522 | Didier_Talamona      |                                       |                                       | ECHE211 | 6.427 | Dhawal_Shah         
+11:00-11:50 |                                       |                                       |                                       | ECHE210 | 3.415 | Aigerim_Baimyrza    | ECHE200 | 6.307 | Ayana_Muzdubayeva   
+12:00-12:50 |                                       |                                       |                                       | ECHE210 | 3.415 | Aigerim_Baimyrza    | ECHE200 | 6.307 | Ayana_Muzdubayeva   
+14:00-14:50 |                                       | ECHE200 | 3.415 | Moulay_Rachid_Babaa | BENG228 | 3.322 | Desmond_Adair       | ECHE210 | 6.307 | Aigerim_Baimyrza    | EME322 | 6.422 | Didier_Talamona      
+15:00-15:50 |                                       | ECHE200 | 3.415 | Moulay_Rachid_Babaa | BENG228 | 3.322 | Desmond_Adair       | ECHE210 | 6.307 | Aigerim_Baimyrza    | EME322 | 6.422 | Didier_Talamona      
+16:00-16:50 | EME322 | 3.316 | Serik_Khairaliyev    | BENG228 | 3.227 | Desmond_Adair       | ECHE211 | 6.307 | Dhawal_Shah         | ECHE210 | 6.307 | Aigerim_Baimyrza    | ECHE210 | 3.143 | Aigerim_Baimyrza    
+17:00-17:50 | EME322 | 3.316 | Serik_Khairaliyev    | BENG228 | 3.227 | Desmond_Adair       | ECHE211 | 6.307 | Dhawal_Shah         | ECHE210 | 6.307 | Aigerim_Baimyrza    | ECHE210 | 3.143 | Aigerim_Baimyrza    
+
+
+Timetable for student of group CHEY22
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | EME322 | 3.415 | Serik_Khairaliyev    |                                       | ECHE210 | 6.422 | ZhumabayBakenov     | BENG228 | 6.327 | Maxim_Lu            | ECHE211 | 3.302 | Roza_Demeisinova    
+10:00-10:50 | EME322 | 3.415 | Serik_Khairaliyev    |                                       | ECHE210 | 6.422 | ZhumabayBakenov     | BENG228 | 6.327 | Maxim_Lu            | ECHE211 | 3.302 | Roza_Demeisinova    
+11:00-11:50 |                                       | BENG228 | 6.112 | Desmond_Adair       | ECHE210 | 6.422 | ZhumabayBakenov     | ECHE200 | 3.322 | Ayana_Muzdubayeva   | ECHE210 | 3.317 | Aigerim_Baimyrza    
+12:00-12:50 |                                       | BENG228 | 6.112 | Desmond_Adair       | ECHE210 | 6.422 | ZhumabayBakenov     | ECHE200 | 3.322 | Ayana_Muzdubayeva   | ECHE210 | 3.317 | Aigerim_Baimyrza    
+14:00-14:50 | ECHE200 | 3.303 | Ayana_Muzdubayeva   |                                       | EME322 | 3.302 | Serik_Khairaliyev    | ECHE211 | 3.317 | Roza_Demeisinova    | ECHE210 | 6.508 | ZhumabayBakenov     
+15:00-15:50 | ECHE200 | 3.303 | Ayana_Muzdubayeva   |                                       | EME322 | 3.302 | Serik_Khairaliyev    | ECHE211 | 3.317 | Roza_Demeisinova    | ECHE210 | 6.508 | ZhumabayBakenov     
+16:00-16:50 |                                       |                                       |                                       | EME322 | 3.416 | Didier_Talamona      |                                       
+17:00-17:50 |                                       |                                       |                                       | EME322 | 3.416 | Didier_Talamona      |                                       
+
+
+Timetable for student of group EEY31
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | EEE400 | 6.327 | Aigerim_Sametkhanova |                                       | EEE307 | 3.220 | Vipin_Kizheppatt     | EEE309 | 6.112 | Kanat_Turebekov      |                                       
+10:00-10:50 | EEE400 | 6.327 | Aigerim_Sametkhanova |                                       | EEE307 | 3.220 | Vipin_Kizheppatt     | EEE309 | 6.112 | Kanat_Turebekov      |                                       
+11:00-11:50 | EEE309 | 3.224 | Kanat_Turebekov      |                                       | EEE307 | 3.303 | Alex_James           | EEE308 | 3.143 | Alexander_Ruderman   | BENG405 | 3.415 | Serik_Tokbolat      
+12:00-12:50 | EEE309 | 3.224 | Kanat_Turebekov      |                                       | EEE307 | 3.303 | Alex_James           | EEE308 | 3.143 | Alexander_Ruderman   | BENG405 | 3.415 | Serik_Tokbolat      
+14:00-14:50 |                                       | EEE308 | 7.322 | Yerden_Kypshakpayev  | EEE400 | 3.407 | Muhammed_Akhtar      | EEE308 | 3.309 | Alexander_Ruderman   |                                       
+15:00-15:50 |                                       | EEE308 | 7.322 | Yerden_Kypshakpayev  | EEE400 | 3.407 | Muhammed_Akhtar      | EEE308 | 3.309 | Alexander_Ruderman   |                                       
+16:00-16:50 | EEE307 | 3.132 | Alex_James           | EEE400 | 6.408 | Muhammed_Akhtar      | EEE309 | 6.408 | Daniele_Tosi         | BENG405 | 3.317 | Serik_Tokbolat      |                                       
+17:00-17:50 | EEE307 | 3.132 | Alex_James           | EEE400 | 6.408 | Muhammed_Akhtar      | EEE309 | 6.408 | Daniele_Tosi         | BENG405 | 3.317 | Serik_Tokbolat      |                                       
+
+
+Timetable for student of group EEY32
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | EEE309 | 3.143 | Kanat_Turebekov      | EEE400 | 6.112 | Muhammed_Akhtar      | EEE308 | 3.143 | Alexander_Ruderman   | EEE309 | 6.427 | Daniele_Tosi         | BENG405 | 3.317 | Ferhat_Karaca       
+10:00-10:50 | EEE309 | 3.143 | Kanat_Turebekov      | EEE400 | 6.112 | Muhammed_Akhtar      | EEE308 | 3.143 | Alexander_Ruderman   | EEE309 | 6.427 | Daniele_Tosi         | BENG405 | 3.317 | Ferhat_Karaca       
+11:00-11:50 | EEE400 | 3.223 | Muhammed_Akhtar      | EEE307 | 6.154 | Alex_James           |                                       | BENG405 | 7.322 | Ferhat_Karaca       | EEE309 | 3.302 | Daniele_Tosi         
+12:00-12:50 | EEE400 | 3.223 | Muhammed_Akhtar      | EEE307 | 6.154 | Alex_James           |                                       | BENG405 | 7.322 | Ferhat_Karaca       | EEE309 | 3.302 | Daniele_Tosi         
+14:00-14:50 |                                       |                                       |                                       | EEE400 | 3.316 | Aigerim_Sametkhanova | EEE308 | 3.407 | Alexander_Ruderman   
+15:00-15:50 |                                       |                                       |                                       | EEE400 | 3.316 | Aigerim_Sametkhanova | EEE308 | 3.407 | Alexander_Ruderman   
+16:00-16:50 |                                       | EEE307 | 6.422 | Alex_James           | EEE307 | 3.317 | Alex_James           |                                       | EEE308 | 6.112 | Alexander_Ruderman   
+17:00-17:50 |                                       | EEE307 | 6.422 | Alex_James           | EEE307 | 3.317 | Alex_James           |                                       | EEE308 | 6.112 | Alexander_Ruderman   
+
+
+Timetable for student of group MEY31
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       |                                       | EME444 | 3.221 | Chingis_Kharmyssov   | EME444 | 3.317 | Chingis_Kharmyssov   |                                       
+10:00-10:50 |                                       |                                       | EME444 | 3.221 | Chingis_Kharmyssov   | EME444 | 3.317 | Chingis_Kharmyssov   |                                       
+11:00-11:50 | BENG405 | 3.132 | Ferhat_Karaca       | EME405 | 3.416 | Christos_Spitas      |                                       | BENG405 | 3.407 | Ferhat_Karaca       | EME405 | 6.422 | Christos_Spitas      
+12:00-12:50 | BENG405 | 3.132 | Ferhat_Karaca       | EME405 | 3.416 | Christos_Spitas      |                                       | BENG405 | 3.407 | Ferhat_Karaca       | EME405 | 6.422 | Christos_Spitas      
+14:00-14:50 |                                       | EME408 | 6.408 | Tair_Askar           | EME324 | 3.217 | Md_Ali               | EME444 | B_Hall | Chingis_Kharmyssov  |                                       
+15:00-15:50 |                                       | EME408 | 6.408 | Tair_Askar           | EME324 | 3.217 | Md_Ali               | EME444 | B_Hall | Chingis_Kharmyssov  |                                       
+16:00-16:50 | EME324 | B_Hall | Md_Ali              |                                       | EME408 | 3.217 | Didier_Talamona      | EME405 | 3.217 | Christos_Spitas      | EME408 | 3.309 | Tair_Askar           
+17:00-17:50 | EME324 | B_Hall | Md_Ali              |                                       | EME408 | 3.217 | Didier_Talamona      | EME405 | 3.217 | Christos_Spitas      | EME408 | 3.309 | Tair_Askar           
+
+
+Timetable for student of group MEY32
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       | EME444 | 6.408 | Chingis_Kharmyssov   | EME408 | 3.224 | Didier_Talamona      | EME408 | 3.223 | Didier_Talamona      | EME405 | O_Hall | Christos_Spitas     
+10:00-10:50 |                                       | EME444 | 6.408 | Chingis_Kharmyssov   | EME408 | 3.224 | Didier_Talamona      | EME408 | 3.223 | Didier_Talamona      | EME405 | O_Hall | Christos_Spitas     
+11:00-11:50 |                                       |                                       | EME444 | 7.322 | Chingis_Kharmyssov   |                                       |                                       
+12:00-12:50 |                                       |                                       | EME444 | 7.322 | Chingis_Kharmyssov   |                                       |                                       
+14:00-14:50 | EME405 | 3.416 | Mathew_Konan         |                                       | EME405 | 3.221 | Mathew_Konan         |                                       |                                       
+15:00-15:50 | EME405 | 3.416 | Mathew_Konan         |                                       | EME405 | 3.221 | Mathew_Konan         |                                       |                                       
+16:00-16:50 | EME408 | 6.408 | Didier_Talamona      |                                       |                                       | EME444 | 3.143 | Chingis_Kharmyssov   |                                       
+17:00-17:50 | EME408 | 6.408 | Didier_Talamona      |                                       |                                       | EME444 | 3.143 | Chingis_Kharmyssov   |                                       
+
+
+Timetable for student of group CEY31
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | BENG405 | 6.508 | Ferhat_Karaca       |                                       | ECE400 | 3.302 | Hau_Leung            |                                       |                                       
+10:00-10:50 | BENG405 | 6.508 | Ferhat_Karaca       |                                       | ECE400 | 3.302 | Hau_Leung            |                                       |                                       
+11:00-11:50 | ECE303 | 3.220 | Dichuan_Zhang        | ECE302 | 6.327 | Minh_Nguyen          | ECE401 | 6.427 | Dina_Kaskina         |                                       | ECE302 | B_Hall | Lyazzat_Saliyeva    
+12:00-12:50 | ECE303 | 3.220 | Dichuan_Zhang        | ECE302 | 6.327 | Minh_Nguyen          | ECE401 | 6.427 | Dina_Kaskina         |                                       | ECE302 | B_Hall | Lyazzat_Saliyeva    
+14:00-14:50 |                                       | ECE302 | 6.522 | Minh_Nguyen          | ECE303 | 3.416 | Saule_Tulebekova     |                                       | ECE400 | 3.132 | Hau_Leung            
+15:00-15:50 |                                       | ECE302 | 6.522 | Minh_Nguyen          | ECE303 | 3.416 | Saule_Tulebekova     |                                       | ECE400 | 3.132 | Hau_Leung            
+16:00-16:50 |                                       | ECE401 | 3.221 | Dina_Kaskina         | ECE303 | B_Hall | Saule_Tulebekova    | BENG405 | O_Hall | Serik_Tokbolat     | ECE303 | 3.303 | Saule_Tulebekova     
+17:00-17:50 |                                       | ECE401 | 3.221 | Dina_Kaskina         | ECE303 | B_Hall | Saule_Tulebekova    | BENG405 | O_Hall | Serik_Tokbolat     | ECE303 | 3.303 | Saule_Tulebekova     
+
+
+Timetable for student of group CEY32
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | ECE302 | 3.322 | Lyazzat_Saliyeva     | ECE303 | 6.422 | Dichuan_Zhang        |                                       | ECE303 | 6.154 | Dichuan_Zhang        | ECE303 | 6.154 | Dichuan_Zhang        
+10:00-10:50 | ECE302 | 3.322 | Lyazzat_Saliyeva     | ECE303 | 6.422 | Dichuan_Zhang        |                                       | ECE303 | 6.154 | Dichuan_Zhang        | ECE303 | 6.154 | Dichuan_Zhang        
+11:00-11:50 | ECE401 | 3.316 | Mert_Guney           |                                       | ECE401 | 3.227 | Dina_Kaskina         | ECE303 | 6.408 | Saule_Tulebekova     |                                       
+12:00-12:50 | ECE401 | 3.316 | Mert_Guney           |                                       | ECE401 | 3.227 | Dina_Kaskina         | ECE303 | 6.408 | Saule_Tulebekova     |                                       
+14:00-14:50 | ECE400 | 6.408 | Sung_Moon            | ECE400 | 6.112 | Hau_Leung            |                                       | ECE302 | 6.427 | Minh_Nguyen          | BENG405 | 3.224 | Ferhat_Karaca       
+15:00-15:50 | ECE400 | 6.408 | Sung_Moon            | ECE400 | 6.112 | Hau_Leung            |                                       | ECE302 | 6.427 | Minh_Nguyen          | BENG405 | 3.224 | Ferhat_Karaca       
+16:00-16:50 |                                       | BENG405 | 6.307 | Ferhat_Karaca       |                                       | ECE302 | 10_TP | Minh_Nguyen          |                                       
+17:00-17:50 |                                       | BENG405 | 6.307 | Ferhat_Karaca       |                                       | ECE302 | 10_TP | Minh_Nguyen          |                                       
+
+
+Timetable for student of group CHEY31
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | ECHE220 | 6.307 | Vasileios_Inglezakis|                                       | ECHE400 | B_Hall | Roza_Demeisinova   |                                       |                                       
+10:00-10:50 | ECHE220 | 6.307 | Vasileios_Inglezakis| ECHE402 | 6.427 | Stavros_Poulopoulos | ECHE400 | B_Hall | Roza_Demeisinova   |                                       |                                       
+11:00-11:50 | ECHE220 | 6.307 | Vasileios_Inglezakis| ECHE300 | 3.132 | Sergey_Spotar       |                                       | ECHE300 | 3.317 | Sayara_Saliyeva     | ECHE220 | 7.322 | Almira_Yagofarova   
+12:00-12:50 | ECHE220 | 6.307 | Vasileios_Inglezakis| ECHE300 | 3.132 | Sergey_Spotar       |                                       | ECHE300 | 3.317 | Sayara_Saliyeva     | ECHE220 | 7.322 | Almira_Yagofarova   
+14:00-14:50 | ECHE220 | O_Hall | Vasileios_Inglezakis| BENG405 | 6.154 | Serik_Tokbolat      | ECHE402 | 7.322 | Stavros_Poulopoulos |                                       | BENG405 | 6.327 | Ferhat_Karaca       
+15:00-15:50 | ECHE220 | O_Hall | Vasileios_Inglezakis| BENG405 | 6.154 | Serik_Tokbolat      | ECHE402 | 7.322 | Stavros_Poulopoulos | ECHE220 | 6.422 | Vasileios_Inglezakis| BENG405 | 6.327 | Ferhat_Karaca       
+16:00-16:50 | ECHE402 | 3.224 | Stavros_Poulopoulos | ECHE400 | 3.317 | Roza_Demeisinova    | ECHE402 | 6.508 | Stavros_Poulopoulos | ECHE300 | 3.224 | Sayara_Saliyeva     |                                       
+17:00-17:50 | ECHE402 | 3.224 | Stavros_Poulopoulos | ECHE400 | 3.317 | Roza_Demeisinova    | ECHE402 | 6.508 | Stavros_Poulopoulos | ECHE300 | 3.224 | Sayara_Saliyeva     |                                       
+
+
+Timetable for student of group CHEY32
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | ECHE300 | 6.154 | Sergey_Spotar       |                                       | ECHE400 | 10_TP | Roza_Demeisinova    |                                       | ECHE220 | 6.327 | Vasileios_Inglezakis
+10:00-10:50 | ECHE300 | 6.154 | Sergey_Spotar       |                                       | ECHE400 | 10_TP | Roza_Demeisinova    |                                       | ECHE220 | 6.327 | Vasileios_Inglezakis
+11:00-11:50 | ECHE220 | 3.302 | Almira_Yagofarova   | ECHE402 | 3.143 | Stavros_Poulopoulos | BENG405 | 10_TP | Ferhat_Karaca       | ECHE400 | 3.416 | Roza_Demeisinova    | ECHE402 | 6.522 | Stavros_Poulopoulos 
+12:00-12:50 | ECHE220 | 3.302 | Almira_Yagofarova   | ECHE402 | 3.143 | Stavros_Poulopoulos | BENG405 | 10_TP | Ferhat_Karaca       | ECHE400 | 3.416 | Roza_Demeisinova    | ECHE402 | 6.522 | Stavros_Poulopoulos 
+14:00-14:50 | ECHE300 | 3.132 | Sayara_Saliyeva     | BENG405 | B_Hall | Serik_Tokbolat     | ECHE220 | 6.112 | Almira_Yagofarova   | ECHE402 | 3.224 | Stavros_Poulopoulos | ECHE402 | 3.309 | Stavros_Poulopoulos 
+15:00-15:50 | ECHE300 | 3.132 | Sayara_Saliyeva     | BENG405 | B_Hall | Serik_Tokbolat     | ECHE220 | 6.112 | Almira_Yagofarova   | ECHE220 | 3.415 | Vasileios_Inglezakis| ECHE402 | 3.309 | Stavros_Poulopoulos 
+16:00-16:50 |                                       |                                       | ECHE220 | 6.112 | Almira_Yagofarova   |                                       | ECHE300 | 3.217 | Sergey_Spotar       
+17:00-17:50 |                                       |                                       | ECHE220 | 6.112 | Almira_Yagofarova   |                                       | ECHE300 | 3.217 | Sergey_Spotar       
+
+
+Timetable for student of group EEY41
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | EEE352 | 3.302 | Svyatoslav_Nezhivenko| EEE452 | 3.224 | Ainur_Rakhymbay      | EEE352 | 6.427 | Mehdi_Bagheri        | EEE352 | 3.415 | Svyatoslav_Nezhivenko|                                       
+10:00-10:50 | EEE352 | 3.302 | Svyatoslav_Nezhivenko| EEE452 | 3.224 | Ainur_Rakhymbay      | EEE352 | 6.427 | Mehdi_Bagheri        | EEE352 | 3.415 | Svyatoslav_Nezhivenko|                                       
+11:00-11:50 | EEE364 | 6.427 | Hema_Satya           | EEE452 | 3.415 | Ainur_Rakhymbay      | BENG405 | 3.309 | Ferhat_Karaca       | EEE364 | 6.508 | Hema_Satya           |                                       
+12:00-12:50 | EEE364 | 6.427 | Hema_Satya           | EEE452 | 3.415 | Ainur_Rakhymbay      | BENG405 | 3.309 | Ferhat_Karaca       | EEE364 | 6.508 | Hema_Satya           |                                       
+14:00-14:50 |                                       | ECE304 | 3.322 | Lyazzat_Saliyeva     | BENG405 | 3.143 | Serik_Tokbolat      |                                       |                                       
+15:00-15:50 |                                       | ECE304 | 3.322 | Lyazzat_Saliyeva     | BENG405 | 3.143 | Serik_Tokbolat      |                                       |                                       
+16:00-16:50 | EEE452 | 6.307 | Mehdi_Bagheri        |                                       | EEE364 | 6.327 | Kumar_Nunna          |                                       | ECE304 | O_Hall | Lyazzat_Saliyeva    
+17:00-17:50 | EEE452 | 6.307 | Mehdi_Bagheri        |                                       | EEE364 | 6.327 | Kumar_Nunna          |                                       | ECE304 | O_Hall | Lyazzat_Saliyeva    
+
+
+Timetable for student of group MEY41
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | ECE304 | 3.227 | Lyazzat_Saliyeva     | BENG405 | O_Hall | Ferhat_Karaca      |                                       |                                       |                                       
+10:00-10:50 | ECE304 | 3.227 | Lyazzat_Saliyeva     | BENG405 | O_Hall | Ferhat_Karaca      |                                       |                                       |                                       
+11:00-11:50 | EME411 | 6.112 | Ulanbek_Auyeskhan    |                                       | EME800 | 6.327 | Serik_Khairaliyev    |                                       |                                       
+12:00-12:50 | EME411 | 6.112 | Ulanbek_Auyeskhan    |                                       | EME800 | 6.327 | Serik_Khairaliyev    |                                       |                                       
+14:00-14:50 |                                       |                                       | EME465 | 6.508 | Yergali_Nurlan       | EME465 | 6.112 | Yergali_Nurlan       | EME465 | 3.220 | Yergali_Nurlan       
+15:00-15:50 |                                       |                                       | EME465 | 6.508 | Yergali_Nurlan       | EME465 | 6.112 | Yergali_Nurlan       | EME465 | 3.220 | Yergali_Nurlan       
+16:00-16:50 | EME800 | 6.422 | Steven_Strange       | BENG405 | 6.112 | Ferhat_Karaca       | ECE304 | 6.522 | Lyazzat_Saliyeva     |                                       | EME411 | 3.302 | Luis_Rojas           
+17:00-17:50 | EME800 | 6.422 | Steven_Strange       | BENG405 | 6.112 | Ferhat_Karaca       | ECE304 | 6.522 | Lyazzat_Saliyeva     |                                       | EME411 | 3.302 | Luis_Rojas           
+
+
+Timetable for student of group CEY41
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | BENG405 | 3.220 | Ferhat_Karaca       |                                       |                                       | ECE402 | 10_TP | Lyazzat_Saliyeva     |                                       
+10:00-10:50 | BENG405 | 3.220 | Ferhat_Karaca       |                                       |                                       | ECE402 | 10_TP | Lyazzat_Saliyeva     |                                       
+11:00-11:50 | ECE304 | 3.309 | Minh_Nguyen          |                                       | ECE401 | 3.322 | Dina_Kaskina         | ECE402 | 3.303 | Lyazzat_Saliyeva     | ECE400 | 3.316 | Hau_Leung            
+12:00-12:50 | ECE304 | 3.309 | Minh_Nguyen          |                                       | ECE401 | 3.322 | Dina_Kaskina         | ECE402 | 3.303 | Lyazzat_Saliyeva     | ECE400 | 3.316 | Hau_Leung            
+14:00-14:50 | ECE402 | 6.508 | Chang_Shon           |                                       |                                       | ECE304 | 3.303 | Minh_Nguyen          |                                       
+15:00-15:50 | ECE402 | 6.508 | Chang_Shon           |                                       |                                       | ECE304 | 3.303 | Minh_Nguyen          |                                       
+16:00-16:50 | BENG405 | 6.522 | Serik_Tokbolat      | ECE401 | 3.303 | Dina_Kaskina         |                                       |                                       | ECE400 | 3.223 | Hau_Leung            
+17:00-17:50 | BENG405 | 6.522 | Serik_Tokbolat      | ECE401 | 3.303 | Dina_Kaskina         |                                       |                                       | ECE400 | 3.223 | Hau_Leung            
+
+
+Timetable for student of group CHEY41
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       | BENG405 | 3.309 | Ferhat_Karaca       | ECHE304 | 6.408 | Sayara_Saliyeva     | ECHE406 | 3.227 | Aknur_Baibatyrova   |                                       
+10:00-10:50 |                                       | BENG405 | 3.309 | Ferhat_Karaca       | ECHE304 | 6.408 | Sayara_Saliyeva     | ECHE406 | 3.227 | Aknur_Baibatyrova   |                                       
+11:00-11:50 |                                       | ECHE304 | 3.322 | Sayara_Saliyeva     | ECHE304 | 3.220 | Sayara_Saliyeva     | ECE304 | 3.316 | Lyazzat_Saliyeva     |                                       
+12:00-12:50 |                                       | ECHE304 | 3.322 | Sayara_Saliyeva     | ECHE304 | 3.220 | Sayara_Saliyeva     | ECE304 | 3.316 | Lyazzat_Saliyeva     |                                       
+14:00-14:50 | ECE304 | 3.143 | Lyazzat_Saliyeva     | ECHE406 | 10_TP | Aknur_Baibatyrova   | ECHE406 | 6.427 | Aknur_Baibatyrova   |                                       | BENG405 | 6.307 | Ferhat_Karaca       
+15:00-15:50 | ECE304 | 3.143 | Lyazzat_Saliyeva     | ECHE406 | 10_TP | Aknur_Baibatyrova   | ECHE406 | 6.427 | Aknur_Baibatyrova   |                                       | BENG405 | 6.307 | Ferhat_Karaca       
+16:00-16:50 |                                       | ECHE401 | 6.522 | Aknur_Baibatyrova   |                                       |                                       | ECHE401 | 3.224 | Aknur_Baibatyrova   
+17:00-17:50 |                                       | ECHE401 | 6.522 | Aknur_Baibatyrova   |                                       |                                       | ECHE401 | 3.224 | Aknur_Baibatyrova   
+

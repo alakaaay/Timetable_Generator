@@ -1,0 +1,81 @@
+Asma_Perveen - Engineering_Materials.
+Aigerim_Mashekova - Engineering_Materials, Heating_Ventilating_and_Air_Conditioning.
+Ming_Yang - Occupal_&_Environment_Health_and_Safety.
+Boris_Golman - Occupal_&_Environment_Health_and_Safety, Computational_Methods_in_Chemical_Engineering_II.
+Vasileios_Zarikas - Engineering_Mathematics_I.
+Sung_Moon - Engineering_Mathematics_I, Construction_Technologies_and_Processes.
+Vipin_Kizheppatt - Programming_for_Engineers, Digital_integrated_circuits_design.
+Aresh_Dadlani - Programming_for_Engineers.
+Anatoli_Vakhguelt - Engineering_Mechanics.
+Mert_Guney - Engineering_Mechanics, Environmental_Engineering.
+Nazim_Mir_Nasiri - Sensors_and_Actuators.
+Kassen_Dautov - Sensors_and_Actuators.
+Desmond_Adair - Engineering_Mathematics_III, Vehicle_Propulsion_Systems.
+Maxim_Lu - Engineering_Mathematics_III.
+Serik_Tokbolat - Project_Management.
+Ferhat_Karaca - Project_Management.
+Shazim_Memon - Surveying, Structural_Analysis_I.
+Zhandos_Kerimkulov - Surveying.
+Saule_Tulebekova - Civil_Engineering_CAD, Structural_Design_Concrete.
+Deuckhang_Lee - Civil_Engineering_CAD.
+Lil_Cool - Structural_Analysis_I.
+Chang_Shon - Civil_Engineering_Materials, Highway_Engineering.
+Lyazzat_Saliyeva - Civil_Engineering_Materials, Engineering_Geology_and_Rock_Mechanics, Capstone_Project_1, Highway_Engineering.
+Minh_Nguyen - Engineering_Geology_and_Rock_Mechanics, Capstone_Project_1.
+Dichuan_Zhang- Structural_Design_Concrete.
+Hau_Leung - Construction_Technologies_and_Processes.
+Dina_Kaskina - Environmental_Systems, Environmental_Engineering.
+Yelyzaveta_Arkhangelsky - Environmental_Systems.
+Moulay_Rachid_Babaa - Introduction_to_Chemical_Engineering.
+Ayana_Muzdubayeva - Introduction_to_Chemical_Engineering.
+Zhumabay Bakenov - Chemistry_I.
+Aigerim_Baimyrza - Chemistry_I.
+Dhawal_Shah - Chemical_Engineering_Thermodynamics.
+Roza_Demeisinova - Chemical_Engineering_Thermodynamics, Research_Practice.
+Vasileios_Inglezakis - Separation_Processes_I.
+Almira_Yagofarova - Separation_Processes_I.
+Sayara_Saliyeva - Transport_Phenomena_II, Multi_Phase_Flows.
+Sergey_Spotar - Transport_Phenomena_II, Multi_Phase_Flows.
+Jorge_Ona_Ruales - Research_Practice.
+Torkmahalleh Amouei - Advanced_Process_Simulation.
+Aknur_Baibatyrova - Advanced_Process_Simulation, Computational_Methods_in_Chemical_Engineering_II.
+Stavros_Poulopoulos - Chemical_Reaction_Engineering.
+Behrouz_Maham - Signals_and_Systems.
+Beibit_Abdikenov - Signals_and_Systems.
+Aigerim_Sametkhanova - Digital_Signal_and_Image_Processing.
+Muhammed_Akhtar - Digital_Signal_and_Image_Processing.
+Alex_James - Microelectronic_Devices_and_Circuits, Digital_integrated_circuits_design.
+Irina_Dolzhikova - Microelectronic_Devices_and_Circuits.
+Kamilya_Smagulova - Electronic_Engineering_Design_Principles.
+Refik_Kizilirmak - Electronic_Engineering_Design_Principles.
+Daniele_Tosi - Electromagnetics.
+Kanat_Turebekov - Electromagnetics, Antennas_and_Propagation.
+Alexander_Ruderman - Power_Electronics.
+Yerden_Kypshakpayev - Power_Electronics.
+Carlo_Molardi - Antennas_and_Propagation.
+Theodoros_Tsiftsis - Digital_Communications.
+Sultangali_Arzykulov - Digital_Communications.
+Svyatoslav_Nezhivenko - Power_Transmission_and_Distribution_plants.
+Mehdi_Bagheri - Power_Transmission_and_Distribution_plants, High_Voltage_Engineering.
+Ainur_Rakhymbay - High_Voltage_Engineering.
+Kumar_Nunna - Power_Systems_Protection.
+Hema_Satya - Power_Systems_Protection.
+Yerkin_Abdildin - Computer_Aided_Engineering.
+Aldiyar_Kakimzhan - Computer_Aided_Engineering.
+Didier_Talamona - Mechanics_of_Materials, Machine_Dynamics_II.
+Serik_Khairaliyev - Mechanics_of_Materials, Oscillation_of_Mechanical_Systems.
+Evagoras_Xydas - Machine_Dynamics_I, Advanced_Control_Systems.
+Mary_Poppins - Machine_Dynamics_I.
+Md_Ali - Advanced_Control_Systems.
+Maxime_Mussard - Heat_Transfer.
+Chingis_Kharmyssov - Heat_Transfer.
+Mathew_Konan - Machine_Design.
+Christos_Spitas - Machine_Design.
+Soo_Teh - Heating_Ventilating_and_Air_Conditioning.
+Konstantinos_Kostas - Computer_Aided_Geometric_Design.
+Lionel_Lucas - Computer_Aided_Geometric_Design.
+Luis_Rojas - Feasibility_Analysis_of_Clean_Energy_Technologies.
+Ulanbek_Auyeskhan - Feasibility_Analysis_of_Clean_Energy_Technologies.
+Tair_Askar - Machine_Dynamics_II.
+Yergali_Nurlan - Vehicle_Propulsion_Systems.
+Steven_Strange - Oscillation_of_Mechanical_Systems.

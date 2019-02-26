@@ -1,0 +1,48 @@
+Engineering_Mathematics_I - BENG124 2 2 .
+Programming_for_Engineers - BENG146 2 2 .
+Engineering_Materials - BENG221 2 2 .
+Engineering_Mechanics - BENG117 2 2 .
+Occupal_&_Environment_Health_and_Safety - BENG145 2 2 .
+Sensors_and_Actuators - BENG215 2 2 2 .
+Engineering_Mathematics_III - BENG228 2 2 .
+Project_Management - BENG405 2 2 .
+Surveying - ECE215 2 2 1 1 .
+Civil_Engineering_CAD - ECE216 2 2 1 .
+Structural_Analysis_I - ECE300 2 2 1.
+Civil_Engineering_Materials - ECE301 2 2 2 .
+Engineering_Geology_and_Rock_Mechanics - ECE302 2 2 2 .
+Structural_Design_Concrete - ECE303 2 2 2 2 .
+Capstone_Project_1 - ECE304 2 2 .
+Construction_Technologies_and_Processes - ECE400 2 2 .
+Environmental_Engineering - ECE401 2 2 .
+Highway_Engineering - ECE402 2 2 2 .
+Introduction_to_Chemical_Engineering - ECHE200 2 2 .
+Chemistry_I - ECHE210 4 2 2 .
+Chemical_Engineering_Thermodynamics - ECHE211 2 2 .
+Separation_Processes_I - ECHE220 4 2 2 1 .
+Transport_Phenomena_II - ECHE300 2 2 2 .
+Research_Practice - ECHE400 2 2 .
+Advanced_Process_Simulation - ECHE401 2 2 .
+Chemical_Reaction_Engineering - ECHE402 2 2 2 1 .
+Computational_Methods_in_Chemical_Engineering_II - ECHE406 2 2 2 .
+Multi_Phase_Flows - ECHE304 2 2 2 .
+Signals_and_Systems - EEE300 2 2 2 .
+Digital_Signal_and_Image_Processing - EEE400 2 2 2 .
+Microelectronic_Devices_and_Circuits - EEE401 2 2 2 .
+Electronic_Engineering_Design_Principles - EEE301 2 2 .
+Electromagnetics - EEE309 2 2 2 .
+Power_Electronics - EEE308 2 2 2 .
+Digital_integrated_circuits_design - EEE307 2 2 2 .
+Power_Transmission_and_Distribution_plants - EEE352 2 2 2 .
+High_Voltage_Engineering - EEE452 2 2 2 .
+Power_Systems_Protection - EEE364 2 2 2 .
+Computer_Aided_Engineering - EME321 2 2 .
+Mechanics_of_Materials - EME322 2 2 2 .
+Machine_Dynamics_I - EME323 2 2 2 .
+Advanced_Control_Systems - EME324 2 2 .
+Heat_Transfer - EME444 2 2 2 .
+Machine_Design - EME405 2 2 2 .
+Feasibility_Analysis_of_Clean_Energy_Technologies - EME411 2 2 .
+Machine_Dynamics_II - EME408 2 2 2 .
+Vehicle_Propulsion_Systems - EME465 2 2 2 .
+Oscillation_of_Mechanical_Systems - EME800 2 2 .

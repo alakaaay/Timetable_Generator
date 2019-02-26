@@ -1,0 +1,48 @@
+Engineering_Mathematics_I - BEng11, BEng12, BEng13, BEng14, BEng15.
+Programming_for_Engineers - BEng11, BEng12, BEng13,BEng14,BEng15.
+Engineering_Materials - BEng11, BEng12, BEng13, BEng14, BEng15.
+Engineering_Mechanics - BEng11, BEng12, BEng13, BEng14, BEng15.
+Occupal_&_Environment_Health_and_Safety - BEng11, BEng12, BEng13, BEng14, BEng15.
+Sensors_and_Actuators - EEY21, EEY22, MEY21, MEY22.
+Engineering_Mathematics_III - EEY21, EEY22, CEY21, CEY22, MEY21, MEY22, CHEY21, CHEY22.
+Project_Management - CEY31, CEY32, MEY31, EEY31, EEY32, CHEY31, CHEY32, MEY41, CEY41, EEY41, CHEY41. 
+Surveying - CEY21, CEY22.
+Civil_Engineering_CAD - CEY21, CEY22.
+Structural_Analysis_I - CEY21, CEY22.
+Civil_Engineering_Materials - CEY21, CEY22.
+Engineering_Geology_and_Rock_Mechanics - CEY31, CEY32.
+Structural_Design_Concrete - CEY31, CEY32.
+Capstone_Project_1 - MEY41, CEY41,EEY41, CHEY41.
+Construction_Technologies_and_Processes - CEY31, CEY32, CEY41.
+Environmental_Engineering - CEY31, CEY32, CEY41.
+Highway_Engineering - CEY41.
+Introduction_to_Chemical_Engineering - CHEY21, CHEY22.
+Chemistry_I - CHEY21, CHEY22.
+Chemical_Engineering_Thermodynamics - CHEY21,CHEY22.
+Separation_Processes_I - CHEY31, CHEY32.
+Transport_Phenomena_II - CHEY31, CHEY32.
+Research_Practice - CHEY31, CHEY32.
+Advanced_Process_Simulation - CHEY41.
+Chemical_Reaction_Engineering - CHEY31, CHEY32.
+Computational_Methods_in_Chemical_Engineering_II - CHEY41.
+Multi_Phase_Flows - CHEY41.
+Signals_and_Systems - EEY21, EEY22.
+Digital_Signal_and_Image_Processing - EEY31, EEY32.
+Microelectronic_Devices_and_Circuits - EEY21, EEY22.
+Electronic_Engineering_Design_Principles - EEY21, EEY22.
+Electromagnetics - EEY31, EEY32.
+Power_Electronics - EEY31, EEY32.
+Digital_integrated_circuits_design - EEY31, EEY32.
+Power_Transmission_and_Distribution_plants - EEY41.
+High_Voltage_Engineering - EEY41.
+Power_Systems_Protection - EEY41.
+Computer_Aided_Engineering - MEY21, MEY22.
+Mechanics_of_Materials - MEY21, MEY22, CHEY21, CHEY22.
+Machine_Dynamics_I - MEY21, MEY22.
+Advanced_Control_Systems - MEY31.
+Heat_Transfer - MEY31, MEY32.
+Machine_Design - MEY31, MEY32.
+Feasibility_Analysis_of_Clean_Energy_Technologies - MEY41.
+Machine_Dynamics_II - MEY31, MEY32.
+Vehicle_Propulsion_Systems - MEY41.
+Oscillation_of_Mechanical_Systems - MEY41.

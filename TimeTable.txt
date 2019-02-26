@@ -1,0 +1,13 @@
+
+Timetable for student of group BEng11
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       |                                       |                                       | BENG146 | 3.217 | Aresh_Dadlani       |                                       
+10:00-10:50 |                                       |                                       |                                       | BENG146 | 3.217 | Aresh_Dadlani       |                                       
+11:00-11:50 |                                       |                                       | BENG124 | B_Hall | Sung_Moon          | BENG145 | 6.327 | Ming_Yang           |                                       
+12:00-12:50 |                                       |                                       | BENG124 | B_Hall | Sung_Moon          | BENG145 | 6.327 | Ming_Yang           |                                       
+14:00-14:50 | BENG124 | 6.307 | Sung_Moon           |                                       | BENG145 | B_Hall | Boris_Golman       | BENG117 | 3.132 | Mert_Guney          | BENG146 | 6.154 | Vipin_Kizheppatt    
+15:00-15:50 | BENG124 | 6.307 | Sung_Moon           |                                       | BENG145 | B_Hall | Boris_Golman       | BENG117 | 3.132 | Mert_Guney          | BENG146 | 6.154 | Vipin_Kizheppatt    
+16:00-16:50 | BENG117 | 3.220 | Mert_Guney          | BENG221 | O_Hall | Aigerim_Mashekova  |                                       | BENG221 | 3.303 | Aigerim_Mashekova   |                                       
+17:00-17:50 | BENG117 | 3.220 | Mert_Guney          | BENG221 | O_Hall | Aigerim_Mashekova  |                                       | BENG221 | 3.303 | Aigerim_Mashekova   |                                       
+
+
